@@ -1,6 +1,6 @@
 $(function() {
-    $('#header-include').load('https://github.com/Zhar04/Proj1/blob/main/header.html');
-    $('#footer-include').load('https://github.com/Zhar04/Proj1/blob/main/footer.html');
+    $('#header-include').load('https://zhar04.github.io/proj1.github.io/header.html');
+    $('#footer-include').load('https://zhar04.github.io/proj1.github.io/footer.html');
 
     $(window).scroll(function() {
         if ( $(this).scrollTop() > 50 ) {
